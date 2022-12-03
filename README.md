@@ -1,4 +1,12 @@
- # My Favorite movies are Marvels movies
+ 	```
+{
+  "firstName": "John Albert",
+  "lastName": "Baisa",
+  "age": 21
+}
+```
+
+# My Favorite movies are Marvels movies
  **I like the most is the movie of Iron Man and the Avengers sequel**
  # The Movies I watch are:
  1. Iron Man 1 - 3
