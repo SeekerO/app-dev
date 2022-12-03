@@ -1,8 +1,8 @@
  	```
 {
-  "firstName": "John Albert",
-  "lastName": "Baisa",
-  "age": 21
+  "John Albert",
+  "Baisa",
+  "BT501"
 }
 ```
 
